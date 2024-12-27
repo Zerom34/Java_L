@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/Learn/Eazy/Q1. Hello World/Q1. Hello World.iml" filepath="$PROJECT_DIR$/Learn/Eazy/Q1. Hello World/Q1. Hello World.iml" />
       <module fileurl="file://$PROJECT_DIR$/Learn/Eazy/Q2.1to10/Q2.1to10.iml" filepath="$PROJECT_DIR$/Learn/Eazy/Q2.1to10/Q2.1to10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Learn/Eazy/Q3.Sum1to100/Q3.Sum1to100.iml" filepath="$PROJECT_DIR$/Learn/Eazy/Q3.Sum1to100/Q3.Sum1to100.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Learn/Eazy/Q4.Factorial/Q4.Factorial.iml" filepath="$PROJECT_DIR$/Learn/Eazy/Q4.Factorial/Q4.Factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Learn/Eazy/Q5. SimpeNum/Q5. SimpeNum.iml" filepath="$PROJECT_DIR$/Learn/Eazy/Q5. SimpeNum/Q5. SimpeNum.iml" />
     </modules>
   </component>
 </project>
