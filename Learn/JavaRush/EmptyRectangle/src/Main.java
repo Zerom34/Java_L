@@ -1,4 +1,4 @@
-
+package Learn.JavaRush.EmptyRectangle.src;
 /*
 Незаполненный прямоугольник
 */

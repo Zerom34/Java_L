@@ -1,9 +1,14 @@
+package Learn.JavaRush.Tssne.tssne.Tssne.src;
+
 import java.util.Scanner;
 
 /* 
 Второе минимальное число из введенных
 */
 
+/**
+ *
+ */
 public class App {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
